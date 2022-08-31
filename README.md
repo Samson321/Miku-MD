@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Miku-MD/stargazers">
+  <a href="https://github.com/wizzybofficial/Miku-MD/stargazers">
     <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
+  <a href="https://github.com/wizzybofficial/Miku-MD">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
